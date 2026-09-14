@@ -38,65 +38,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
-## SaaS/Hosted Platforms
-
-- **[Luma Health](https://www.lumahealth.io/)**  
-
-  Comprehensive patient engagement platform focused on access, self-scheduling, waitlists, reminders, and operational automation for practices and health systems.
-
-
-
-- **[Phreesia](https://www.phreesia.com/)**  
-
-  Leading digital intake, registration, and patient engagement platform with strong payment collection and EHR-integrated workflows.
-
-
-
-- **[Solutionreach](https://www.solutionreach.com/)**  
-
-  Long-standing patient communication platform specializing in appointment reminders, recall, and reputation management.
-
-
-
-- **[Relatient](https://www.relatient.com/)**  
-
-  Patient engagement and communication platform supporting messaging, scheduling, and outreach for healthcare organizations.
-
-
-
-- **[Weave](https://www.getweave.com/)**  
-
-  All-in-one communication platform popular with small practices (especially dental and optometry), combining phone, texting, payments, and reviews.
-
-
-
-- **[OhMD](https://www.ohmd.com/)**  
-
-  HIPAA-compliant two-way texting and patient communication platform designed for practice staff inboxes and modern messaging workflows.
-
-
-
-- **[Klara](https://www.klara.com/)**  
-
-  Patient communication and engagement platform (often used in specialty practices) supporting messaging, intake, and care coordination.
-
-
-
-- **[Artera](https://artera.io/)**  
-
-  Enterprise patient messaging and outreach platform focused on multi-channel, multi-language communication at health-system scale.
-
-
-
-- **[PatientPop](https://www.patientpop.com/)**  
-
-  Practice growth and patient engagement platform combining online presence, reputation, and communication tools.
-
-
-
-- **[Rhinogram](https://www.rhinogram.com/)**  
-
-  Secure patient messaging and engagement solution for healthcare practices.
+| Product | Description | Starting Tier Pricing | Free Tier / Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Luma Health](https://www.lumahealth.io/)** | Comprehensive patient engagement platform focused on access, self-scheduling, waitlists, reminders, and operational automation for practices and health systems. | Standard starting packages estimated at ~$250/user/month (Custom quote required based on practice size & EHR scope) | No free tier or free trial (Demo available upon request) |
+| **[Phreesia](https://www.phreesia.com/)** | Leading digital intake, registration, and patient engagement platform with strong payment collection and EHR-integrated workflows. | Baseline subscription packages estimated at ~$250–$300/month (Custom quote based on provider count and modules) | Full intake platform access provided at no cost through Dec 31, 2026 (No permanent free tier; demo required) |
+| **[Solutionreach](https://www.solutionreach.com/)** | Long-standing patient communication platform specializing in appointment reminders, recall, and reputation management. | Base "Patient Connect" package starting at ~$300–$379/month | No free tier or free trial (Demo available upon request) |
+| **[Relatient](https://www.relatient.com/)** | Patient engagement and communication platform supporting messaging, scheduling, and outreach for healthcare organizations. | Starting tier packages from ~$99/month (Base pricing depends on provider volume and EHR integration) | No free tier or free trial (Demo available upon request) |
+| **[Weave](https://www.getweave.com/)** | All-in-one communication platform popular with small practices (especially dental and optometry), combining phone, texting, payments, and reviews. | "Pro" plan starting at $199–$249/month | No free tier or free trial (Demo available upon request) |
+| **[OhMD](https://www.ohmd.com/)** | HIPAA-compliant two-way texting and patient communication platform designed for practice staff inboxes and modern messaging workflows. | "Communicate" plan starting at $300/month | No free tier; 14-day limited free trial available on select plans |
+| **[Klara](https://www.klara.com/)** | Patient communication and engagement platform (often used in specialty practices) supporting messaging, intake, and care coordination. | Core practice plans starting at ~$125/user/month (Custom contract based on provider count) | No free tier or free trial (Demo available upon request) |
+| **[Artera](https://artera.io/)** | Enterprise patient messaging and outreach platform focused on multi-channel, multi-language communication at health-system scale. | Enterprise custom pricing starting at ~$500/month equivalent (Scales by health-system patient volume) | No free tier or free trial (Demo available upon request) |
+| **[PatientPop](https://www.patientpop.com/)** | Practice growth and patient engagement platform combining online presence, reputation, and communication tools. | Practice growth suite starting at ~$300–$500/month per provider | No free tier or free trial (Demo available upon request) |
+| **[Rhinogram](https://www.rhinogram.com/)** | Secure patient messaging and engagement solution for healthcare practices. | Custom practice plans starting at ~$299/month | No free tier or free trial (Demo available upon request) |
 
 
 
